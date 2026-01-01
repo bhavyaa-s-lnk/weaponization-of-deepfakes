@@ -9,8 +9,9 @@ Deepfakes are AI-generated synthetic media created using deep learning technique
 ## Keywords
 Deepfake Detection, Cybersecurity, Artificial Intelligence, Digital Forensics, AI Security, Media Manipulation
 
-## Paper 
-[The Weaponization of Deepfakes](./The Weaponization of Deepfakes Implications for Cybersecurity and Society.pdf)
+## Paper
+[The Weaponization of Deepfakes](./The%20Weaponization%20of%20Deepfakes%20Implications%20for%20Cybersecurity%20and%20Society.pdf)
+
 
 ## Research Areas
 - Cybersecurity
